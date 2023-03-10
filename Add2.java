@@ -1,4 +1,4 @@
-public class Add1 {
+public class Add2 {
     int num1;
     int num2;
 
